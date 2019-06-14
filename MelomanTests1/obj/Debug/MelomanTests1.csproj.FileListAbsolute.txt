@@ -1,0 +1,13 @@
+D:\Meloman\MelomanTests1\bin\Debug\MelomanTests1.dll
+D:\Meloman\MelomanTests1\bin\Debug\MelomanTests1.pdb
+D:\Meloman\MelomanTests1\bin\Debug\Meloman.exe
+D:\Meloman\MelomanTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Meloman\MelomanTests1\bin\Debug\AxInterop.WMPLib.dll
+D:\Meloman\MelomanTests1\bin\Debug\Interop.WMPLib.dll
+D:\Meloman\MelomanTests1\bin\Debug\Meloman.pdb
+D:\Meloman\MelomanTests1\bin\Debug\Meloman.exe.config
+D:\Meloman\MelomanTests1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Meloman\MelomanTests1\obj\Debug\MelomanTests1.csprojResolveAssemblyReference.cache
+D:\Meloman\MelomanTests1\obj\Debug\MelomanTests1.csproj.CoreCompileInputs.cache
+D:\Meloman\MelomanTests1\obj\Debug\MelomanTests1.dll
+D:\Meloman\MelomanTests1\obj\Debug\MelomanTests1.pdb
